@@ -5,6 +5,14 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Chain Lightning","Bump in the Night"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Experimental Synthesizer", "Galvanic Blast"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Faithless Looting"]
         }
     ],
     "Variants": [
