@@ -1,0 +1,14 @@
+{
+    "Name": "Black Burn",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Kitchen Imp","Bump in the Night","Alms of the Vein"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Rakdos Carnarium"]
+        }
+    ]
+}
