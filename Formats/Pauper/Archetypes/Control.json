@@ -13,6 +13,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Gray Merchant of Asphodel"]
         }
     ],
     "Variants": [
@@ -23,14 +27,6 @@
                 {
                     "Type": "OneOrMoreInMainboard",
                     "Cards": ["Chittering Rats","Crypt Rats","Vampire Sovereign"]
-                },
-                {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Thorn of the Black Rose","Gray Merchant of Asphodel","Cuombajj Witches" ]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Gray Merchant of Asphodel"]
                 }
             ]
         }
