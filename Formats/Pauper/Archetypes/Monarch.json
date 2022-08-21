@@ -12,7 +12,7 @@
         },
         {
             "Type": "DoesNotContainMainboard",
-            "Cards": ["Daybreak Chimera","Basilisk Gate"]
+            "Cards": ["Daybreak Chimera"]
         },
         {
             "Type": "DoesNotContain",
